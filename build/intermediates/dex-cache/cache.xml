@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\CODE\AIDLParcelable\aidlparcelable\serverapp\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\CODE\AIDLParcelable\aidlparcelable\serverapp\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6c389b6f8e18f5152bd9c1cdfdfbc69e27f562e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\CODE\AIDLParcelable\aidlparcelable\serverapp\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3286e8c198aeea99edc1a6219f08dfa26e77c2ea">
+        <dex dex="F:\CODE\AIDLParcelable\aidlparcelable\serverapp\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3f35b2ca46c8f05663369f13a84597c160f9325c\classes.dex" />
+    </item>
+
+</items>
